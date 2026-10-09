@@ -1,5 +1,6 @@
 {
   "name": "ecommerce-app",
+  "homepage": "https://aniqa912.github.io/shopease",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
